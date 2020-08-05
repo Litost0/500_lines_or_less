@@ -1,5 +1,5 @@
 
-'''liaoxuefeng.com'''
+'''From liaoxuefeng.com'''
 
 class Hello(object):
     def hello(self, name='world'):
